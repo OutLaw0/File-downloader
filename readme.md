@@ -1,6 +1,7 @@
 # File-downloader-script
 
-A simple script for `mass` uploading files using links from a `csv` file.
+A simple script for `mass uploading` and `rename` files using links from a `csv` file. 
+
 Based on **Node.js** and **Vanilla JS**
 
 Made for those who are just starting their journey with a **Node.js** or have not heard about it at all and just want to download a bunch of files using links from a file.
@@ -17,7 +18,8 @@ Events available on Node built-in
 
 ## Usage
 
-Install the script and prepare the csv file in the **required format**.
+Install and setting script. 
+Prepare the csv file in the **required format**.
 U can upload example file .csv and use it.
 But it contains unnecessary columns, for my purposes, you can simplify it and the script itself. Check comments.
 
