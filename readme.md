@@ -1,4 +1,4 @@
-# File-downloader-script
+# file-downloader-script
 
 A simple script for `mass uploading` and `rename` files using links from a `csv` file. 
 
@@ -32,4 +32,4 @@ Download files or clone repo.
 ```console
 $ npm install
 ```
-Or install `csv-parser`, `nodejs-file-downloader` and make your solution. Its very easy with this brillint components
+Or install `csv-parser`, `nodejs-file-downloader` and make your solution. Its very easy with this cool components
