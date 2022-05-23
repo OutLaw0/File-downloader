@@ -25,6 +25,10 @@ But it contains unnecessary columns, for my purposes, you can simplify it and th
 
 This [post](https://dev.to/isalevine/parsing-csv-files-in-node-js-with-fs-createreadstream-and-csv-parser-koi) may also help you for understanding csv parsing.
 
+```console
+$ node app.js
+```
+
 ## Install
 
 Download files or clone repo.
